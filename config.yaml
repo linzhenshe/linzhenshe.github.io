@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Hugo Ivy
+title: 佘林桢
 theme: hugo-ivy
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
