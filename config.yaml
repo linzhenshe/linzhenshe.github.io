@@ -1,5 +1,5 @@
 baseurl: /
-languageCode: en-us
+languageCode: ch-us
 title: 佘林桢
 theme: hugo-ivy
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
